@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\temp_disp.hex'
+elf = 'build\temp_disp.uf2'
